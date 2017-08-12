@@ -10,4 +10,6 @@ S /Users/agtlucas/Projects/stone/node_modules/bs-jest/lib/ocaml
 B /Users/agtlucas/Projects/stone/node_modules/bs-jest/lib/ocaml
 S src
 B lib/bs/src
+S src/components
+B lib/bs/src/components
 ####BSB GENERATED: NO EDIT}
